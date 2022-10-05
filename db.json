@@ -59,7 +59,7 @@
       "id": 1,
       "email": "jairo@email.com",
       "nome": "Jairo",
-      "documento": "CPF - 000.000.000-01"
+      "documento": "000.000.000-01"
     },
     {
       "id": 2,
@@ -71,13 +71,13 @@
       "id": 3,
       "email": "isac@email.com",
       "nome": "Isac",
-      "documento": "CPF - 000.000.000-03"
+      "documento": "000.000.000-03"
     },
     {
       "id": 4,
       "email": "xavier@email.com",
       "nome": "Xavier",
-      "documento": "CPF - 000.000.000-04"
+      "documento": "000.000.000-04"
     }
   ]
 }
